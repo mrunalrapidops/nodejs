@@ -1,0 +1,15 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.0.0",
+    "util": "^0.11.1"
+  }
+}
